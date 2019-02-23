@@ -1,0 +1,42 @@
+  
+    .logo {
+        position: absolute;
+        left: 600px;
+        top: 200px;
+      }
+     
+      .item {
+        position: absolute;
+        right: 80px;
+        top: 20px;
+    
+      }
+      .item2 {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    
+      }
+      .fa {
+        position: absolute;
+        right: 130px;
+        top: 15px;
+    
+      }
+      .sb {
+        position: absolute;
+        left: 200px;  
+        width: 700px;
+        height: 500px;
+        margin: 380px;
+      }
+
+      
+      @media screen and (max-width: 500px) {
+        
+        .logo {
+            position: absolute;
+            left: 600px;
+            top: 200px;
+          }
+      }
